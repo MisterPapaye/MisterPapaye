@@ -10,7 +10,7 @@
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=philippeletug&theme=tokyonight&border_radius=10&locale=fr&short_numbers=true&date_format=j%20M%5B%20Y%5D" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=philippeletug&theme=tokyonight&border_radius=10&locale=fr)](https://git.io/streak-stats)
 </div>
 
 ## 💻 Tech Stack :

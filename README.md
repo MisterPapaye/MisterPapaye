@@ -3,7 +3,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=philippeletug&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippeletug&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
 </div>
 
 ---
@@ -17,6 +16,6 @@
 ## 💻 Tech Stack :
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,mysql,nginx,linux,windows,git,github,npm,vscode,notion&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,vue,vite,html,css,tailwind,mysql,nginx,linux,windows,git,github,npm,vscode,notion&theme=dark" />
 </div>
 

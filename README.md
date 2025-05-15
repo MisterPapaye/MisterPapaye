@@ -7,12 +7,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<div align="center">
-  <img src"https://streak-stats.demolab.com/?user=philippeletug&theme=tokyonight&border_radius=10&locale=fr" />
-</div>
-
 ## 💻 Tech Stack :
 
 <div align="center">

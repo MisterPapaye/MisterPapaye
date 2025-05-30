@@ -2,7 +2,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=philippeletug&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misterpapaye&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
 </div>
 
 ---

@@ -10,6 +10,6 @@
 ## 💻 Tech Stack :
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,vue,vite,html,css,tailwind,mysql,nginx,linux,windows,git,github,npm,vscode,notion&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,vue,vite,html,css,tailwind,mysql,nginx,linux,windows,git,github,npm,vscode,notion&theme=dark" />
 </div>
 

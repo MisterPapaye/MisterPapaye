@@ -28,22 +28,3 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,rust,express,vue,vite,electron,html,css,tailwind,mysql,mongodb,nginx,linux,windows,git,github,npm,vscode,notion,postman&theme=dark" />
 </div>
 
----
-
-### 🧩 Projets & Créations
-
-💡 **SilverNote** — Application de prise de notes intelligente, collaborative et réactive, intégrant IA et édition en temps réel.
-💡 **SilverTransfert** — Application de transfert de fichier sécuriser et francais.
-⚙️ **SilverCore** — Infrastructure moderne pour l’innovation numérique et les solutions durables.  
-
----
-
-### ⚡ Fun Fact
-
-> “Chez Silvercore, on ne suit pas les tendances — on les crée.” 🚀
-
----
-
-<div align="center">
-  <sub>✨ Powered by passion, caffeine, and a bit of chaos — © 2025 Mister Papaye 🍃</sub>
-</div>

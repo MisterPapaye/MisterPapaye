@@ -49,13 +49,6 @@ Créer. Construire. Innover.
 
 ---
 
-# 🌐 Projets
-
-🚀 **Silvercore**
-🌍 https://www.silvercore.fr
-
----
-
 <p align="center">
 
 ⭐ Si tu aimes mes projets, pense à laisser une **star** !

@@ -25,6 +25,6 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,vue,nuxt,vite,electron,html,css,tailwind,mysql,mongodb,prisma,postgres,docker,nginx,linux,windows,git,github,npm,vscode,notion,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxt,vite,tailwind,nodejs,express,electron,prisma,mysql,postgres,mongodb,docker,nginx,linux,windows,git,github,npm,vscode,postman,notion,cloudflare&theme=dark" />
 </div>
 

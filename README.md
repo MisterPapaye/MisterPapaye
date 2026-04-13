@@ -19,11 +19,9 @@ Créer. Construire. Innover.
 
 # 🚀 À propos de moi
 
-💡 Entrepreneur & développeur
-⚙️ Créateur d’applications web et SaaS
+💡 Entrepreneur & développeur<br />
+⚙️ Créateur d’applications web et SaaS<br />
 🌍 Passionné par la technologie et l’innovation
-
-> Construire des outils simples, puissants et utiles.
 
 ---
 

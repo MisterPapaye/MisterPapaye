@@ -43,7 +43,7 @@ Créer. Construire. Innover.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxt,vite,tailwind,nodejs,express,electron,prisma,mysql,postgres,mongodb,docker,nginx,linux,windows,git,github,npm,vscode,postman,notion,cloudflare&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxt,vite,tailwind,nodejs,express,electron,prisma,mysql,postgres,mongodb,docker,nginx,linux,windows,git,github,npm,vscode,postman,notion,cloudflare,keycloak&theme=dark"/>
 
 </div>
 
